@@ -14,6 +14,11 @@ sudo apt install -y nautilus
 
 sudo snap install code --classic
 
+# nvidia drivers
+
+sudo apt install -y ubuntu-drivers-common
+sudo ubuntu-drivers autoinstall
+
 sudo apt update
 
 echo "setup complete"
