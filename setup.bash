@@ -13,6 +13,8 @@ sudo apt install -y cava
 
 sudo apt install -y nautilus
 
+sudo apt install -y flameshot
+
 sudo snap install code --classic
 
 # nvidia drivers
